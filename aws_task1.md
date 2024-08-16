@@ -7,7 +7,7 @@
 ```bash
 aws --version
 ```
-![](photos/awscli.png)
+![](./awscli.png)
 
 
 ### 2. Create a New User `admin-yat` with Admin Access, Enable 2FA, Console, and CLI Access
